@@ -1,1 +1,19 @@
 # swap
+app
+  model.js
+  routes.js
+public
+  js
+    app.js
+    checkinCtrl.js
+    checkoutCtrl.js
+    gservice.js
+    headerCtrl.js
+  partials
+    checkinForm.html
+    checkoutForm.html
+  index.html
+  style.css
+bower.json
+package.json
+server.js
