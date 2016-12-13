@@ -105,7 +105,7 @@ angular.module('gservice', [])
 
 				// Create a new map and place in the index.html page
 				var map = new google.maps.Map(document.getElementById('map'), {
-					zoom: 20,
+					zoom: 16,
 					center: myLatLng,
 					disableDefaultUI: true,
 					styles: [{"elementType": "geometry","stylers": [{"color": "#f5f5f5"}]},
